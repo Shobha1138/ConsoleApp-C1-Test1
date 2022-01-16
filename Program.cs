@@ -8,6 +8,7 @@ namespace ConsoleApp_C1_Test1
         {
 
             //string[] Products = new string[10];
+            // comment
 
             Console.WriteLine("Add Products: ");
             string[] Products = new string[20];
